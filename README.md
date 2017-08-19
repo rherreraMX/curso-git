@@ -1,2 +1,2 @@
 # curso-git
-demo para aprender  GIT
+Roman Herrera
